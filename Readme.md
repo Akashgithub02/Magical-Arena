@@ -14,7 +14,7 @@ Magical Arena is a Java-based game where two players fight each other using dice
 ## Installation
 
 1. **Clone the repository**:
-git clone https://github.com/your-username/magical-arena.git
+git clone https://github.com/Akashgithub02/Magical-Arena.git
 
 2. **Navigate to the project directory**:
 ```bash
@@ -78,5 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 - **Name**: Akash
 - **Email**: kotharkarakash4@gmail.com
-- **GitHub**: https://github.com/your-username
-
+- **GitHub**: https://github.com/Akashgithub02/Magical-Arena.git
